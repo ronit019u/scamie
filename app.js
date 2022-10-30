@@ -1,3 +1,4 @@
+
 let computerScore = 0;
 let playerScore = 0; 
 
@@ -86,19 +87,6 @@ const computerScoreS = document.querySelector('.computer-won')
                   scoreupdate(computerScore , playerScore)
                  })
 
+
+                  
                 
-                   // const playGame = () => {
-                      //for (let i = 0; i < 5; i++) {
-                        // const computerChoice = computerPlay();
-                        // const playerChoice = prompt('select your choice' ,  'rock, paper, scissor').toLocaleLowerCase();
-                         //playGround(compterChoice , playerChoice)
-                           //if(playerScore > computerScore) {
-                            //return "you win" $(playerScore);
-                           // } else if(playerScore < computerScore) {
-                           //   return "you loose computer win" $(computerScore);
-                           // } else {
-                            //return "you tie with computer";
-                            //  }
-                     // }
-                    //}
-                            git 
